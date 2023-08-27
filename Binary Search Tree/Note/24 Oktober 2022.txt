@@ -1,0 +1,6 @@
+Pointer Binary Search Tree
+left child 
+right child 
+parent
+
+kyknya tugasnya yg binary tree deh
